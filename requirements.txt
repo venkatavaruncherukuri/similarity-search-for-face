@@ -3,3 +3,5 @@ numpy
 pillow
 opencv-python-headless
 faiss-cpu
+keras-facenet
+tensorflow
